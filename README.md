@@ -15,7 +15,7 @@
 5. **音乐生成**：使用音乐生成模型（facebook/musicgen-small）生成符合场景的音乐。
 6. **音乐播放**：通过pygame库将生成的音乐合成为音乐流并播放。
 
-<img src="D:\OneDrive\图片\Typora\README\总体框架图.png" alt="总体框架图" style="zoom:100%;" />
+<img src="https://github.com/zhuangaoooo/BGM-FOR-YOUR-LIFE/blob/main/images/%E6%80%BB%E4%BD%93%E6%A1%86%E6%9E%B6%E5%9B%BE.png" alt="总体框架图" style="zoom:100%;" />
 
 ## 模型部署
 
@@ -79,10 +79,10 @@
 
 ### 硬件示意图
 - **图1：ESP32-CAM装配**  
-  <img src="D:\OneDrive\图片\Typora\README\ESP32.jpg" alt="ESP32装配" style="zoom:100%;" />
+  <img src="https://github.com/zhuangaoooo/BGM-FOR-YOUR-LIFE/blob/main/images/ESP32.jpg" alt="ESP32装配" style="zoom:100%;" />
   
 - **图2：电池装配**  
-  <img src="D:\OneDrive\图片\Typora\README\电池.jpg" alt="电池装配" style="zoom:100%;" />
+  <img src="https://github.com/zhuangaoooo/BGM-FOR-YOUR-LIFE/blob/main/images/%E7%94%B5%E6%B1%A0.jpg" alt="电池装配" style="zoom:100%;" />
 
 ## 项目展示
 
