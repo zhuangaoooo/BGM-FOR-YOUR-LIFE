@@ -15,7 +15,7 @@
 5. **音乐生成**：使用音乐生成模型（facebook/musicgen-small）生成符合场景的音乐。
 6. **音乐播放**：通过pygame库将生成的音乐合成为音乐流并播放。
 
-![总体框架图](.\images\总体框架图.png)
+<img src="D:\OneDrive\图片\Typora\README\总体框架图.png" alt="总体框架图" style="zoom:100%;" />
 
 ## 模型部署
 
@@ -79,16 +79,22 @@
 
 ### 硬件示意图
 - **图1：ESP32-CAM装配**  
-  <img src="images/ESP32.jpg" alt="ESP32装配" style="zoom: 10%;" />
+  <img src="D:\OneDrive\图片\Typora\README\ESP32.jpg" alt="ESP32装配" style="zoom:100%;" />
   
 - **图2：电池装配**  
-  <img src="images/电池.jpg" alt="电池装配" style="zoom:10%;" />
+  <img src="D:\OneDrive\图片\Typora\README\电池.jpg" alt="电池装配" style="zoom:100%;" />
 
 ## 项目展示
 
 项目的Demo视频展示了在工作场景和游戏场景中生成背景音乐的效果。
 
 ## 项目评价
+
+`analysis.py`会对生成的音频文件进行评价
+
+```bash
+python analysis.py
+```
 
 项目的评价系统从音质、生成时间、与场景匹配度和用户满意度四个方面对生成的音乐进行评估。具体评分标准如下：
 
