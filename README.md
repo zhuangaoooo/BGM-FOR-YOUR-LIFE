@@ -79,10 +79,10 @@
 
 ### 硬件示意图
 - **图1：ESP32-CAM装配**  
-  <img src="https://github.com/zhuangaoooo/BGM-FOR-YOUR-LIFE/blob/main/images/ESP32.jpg" alt="ESP32装配" style="zoom:100%;" />
+  <img src="https://github.com/zhuangaoooo/BGM-FOR-YOUR-LIFE/blob/main/images/ESP32.jpg" alt="ESP32装配" style="zoom:10%;" />
   
 - **图2：电池装配**  
-  <img src="https://github.com/zhuangaoooo/BGM-FOR-YOUR-LIFE/blob/main/images/%E7%94%B5%E6%B1%A0.jpg" alt="电池装配" style="zoom:100%;" />
+  <img src="https://github.com/zhuangaoooo/BGM-FOR-YOUR-LIFE/blob/main/images/%E7%94%B5%E6%B1%A0.jpg" alt="电池装配" style="zoom:10%;" />
 
 ## 项目展示
 
